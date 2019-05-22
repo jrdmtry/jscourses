@@ -33,5 +33,5 @@ if(appData.moneyPerDay <100){
 }else if(appData.moneyPerDay > 2000){
     console.log("Высокий уровень дохода");
 }else {
-    console.log("Произошла ошибка");
+    console.log("Произошла ошибка"); 
 }
